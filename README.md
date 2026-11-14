@@ -1,5 +1,9 @@
 # FortyGuard Heatmap Explorer
 
+## Live Demo
+
+[View the FortyGuard Heatmap Explorer](https://fortyguard-heatmap-explorer.vercel.app)
+
 An interactive web application that visualizes temperature data retrieved from the FortyGuard Temperature API on a geographic map.
 
 Built as part of a product evaluation for the **FortyGuard Software Development Internship – January 2027**.
